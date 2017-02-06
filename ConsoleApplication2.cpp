@@ -11,6 +11,9 @@
 #define	ARRIBA 72
 #define ABAJO 80
 //agrego esta linea para comprobar cambios en git
+//tambien agrego esta otra
+
+
 using namespace std;
 
 void gotoxy(int x, int y)
